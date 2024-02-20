@@ -1,0 +1,68 @@
+[33mcommit a32f413a5457ab0a08fdd9b2a398f08b3065af7e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Tue Feb 20 10:33:00 2024 +0300
+
+    A new file is added
+
+[33mcommit 981124364d3b1a31cea9f13030a65f6b3c5be356[m
+Author: Пользователь <sakun6136@gmail.com>
+Date:   Mon Feb 19 10:55:48 2024 +0300
+
+    A new file is added
+
+[33mcommit 20b5949e4dcb6bf8d311f318b5b96e7d1fbefe85[m
+Author: Пользователь <sakun6136@gmail.com>
+Date:   Fri Feb 16 11:49:26 2024 +0300
+
+    A new file added
+
+[33mcommit be018b48c72a7934564fe9645455279c9085bde2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Evgeniy19781010 <134290824+Evgeniy19781010@users.noreply.github.com>
+Date:   Fri Feb 16 11:36:04 2024 +0300
+
+    Update README.md
+
+[33mcommit 2a0bbd09cae8a6b6990d2091822b69fd22ffc00a[m
+Merge: 179d861 36fcef4
+Author: Evgeniy19781010 <134290824+Evgeniy19781010@users.noreply.github.com>
+Date:   Tue May 23 13:18:32 2023 +0300
+
+    Merge pull request #1 from Evgeniy19781010/develop
+    
+    Develop
+
+[33mcommit 36fcef47a71b7435936857be11113e5b2467d0fa[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Tue May 23 12:31:18 2023 +0300
+
+    new commit for develop
+
+[33mcommit 9752c152823a5f4854b46cd70381680bc49d8e98[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Tue May 23 12:26:56 2023 +0300
+
+    new file
+
+[33mcommit 179d8615ec3f6292254426a50d9d3f139ecb2a22[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Mon May 22 17:10:04 2023 +0300
+
+    add file
+
+[33mcommit 83c8065b1cd9b859473d6706533f584fcfe2c4f7[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Mon May 22 16:57:12 2023 +0300
+
+    change file
+
+[33mcommit 4165cc312e3ba5005cf2f5f52a074497d34548ee[m
+Author: Evgeniy19781010 <sakun6136@gmail.com>
+Date:   Mon May 22 16:46:35 2023 +0300
+
+    add file
+
+[33mcommit 5e841f3bf10fb7aa3b49a57e6c715da3c58cad99[m
+Author: Evgeniy19781010 <134290824+Evgeniy19781010@users.noreply.github.com>
+Date:   Mon May 22 15:39:35 2023 +0300
+
+    Initial commit
